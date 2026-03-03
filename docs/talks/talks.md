@@ -1,14 +1,16 @@
 # Talks
 
-**"Hands On: To study a communication system using Deep Radio,"** Faculty Devlopment Program on 6G Technologies, EGS Pillay Engineering College, Nagapattinam, 12 DEC 2025.
+**"Experimental 5G: Testbeds and the Roadmap to 6G,"** ATAL Faculty Development Program  on Next Generatob RF IC Design for 5G: Architectures, Challenges, and Industry Relevant Applications, Acharya Institute of Technology, Bangalore, 18 Feb 2026.
 
-**"Experimental 5G: Testbeds and the Roadmap to 6G,"** Faculty Development Program on Multicarrier Modulation Techniques for 6G wireless Communications, Aditya College Of Engineering, Surampalem, 08 Dec 2025.
+**"Hands On: To study a communication system using Deep Radio,"** Faculty Devlopment Program on 6G Technologies, EGS Pillay Engineering College, Nagapattinam, 12 December 2025.
 
-**"5G/6G Enabled Smart Farming: Use Cases and Applications & Drone Communication,"** ATAL Faculty Development Program  on Next Generation Communication for 6G and Beyond, IIT Dhanbad, 05 Dec 2025.
+**"Experimental 5G: Testbeds and the Roadmap to 6G,"** Faculty Development Program on Multicarrier Modulation Techniques for 6G wireless Communications, Aditya College Of Engineering, Surampalem, 08 December 2025.
 
-**"ML/DL based modulation classification: Hands-On,"** Faculty Development Program On Application of Artificial Intelligence in 5G/6G Communication Systems Under the banner of Electronics and ICT academy, National Institute of Technology Patna, 30 Nov 2025.
+**"5G/6G Enabled Smart Farming: Use Cases and Applications & Drone Communication,"** ATAL Faculty Development Program on Next Generation Communication for 6G and Beyond, IIT Dhanbad, 05 December 2025.
 
-**"Advanced Design and Optimization Techniques for Next-Generation Antennas,"** Professional Development Programme, Sri Sairam Engineering College, Chennai, 02 Nov 2025.   
+**"ML/DL based modulation classification: Hands-On,"** Faculty Development Program On Application of Artificial Intelligence in 5G/6G Communication Systems Under the banner of Electronics and ICT academy, National Institute of Technology Patna, 30 November 2025.
+
+**"Advanced Design and Optimization Techniques for Next-Generation Antennas,"** Professional Development Programme, Sri Sairam Engineering College, Chennai, 02 November 2025.   
 
 **"Design and Performance Optimization of Next-Generation Antennas for 5G/6G Communication Systems,"** ATAL Faculty Development Program, St. Anne’s College of Engineering and Technology (SANCET), Panruti, 23 June 2025.
 
