@@ -1,6 +1,6 @@
 # UG Projects – 2026
 
-| S.No | Student's Name      | Institute                     | Project Name        | Status   |
+| S.No | Student Name(s)      | Institute                     | Project Name        | Status   |
 |------|-------------------|------------------------------|--------------------|----------|
 | 1    | Husen Basha       | KL University, Vijayawada    | 5G Arm Control     | Ongoing  |
 | 2    | Ruthwik      | KL University, Vijayawada    | 5G Security        | Ongoing  |
