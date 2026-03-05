@@ -61,7 +61,6 @@ nav:
       - 5NR-NSMEC: products/5nr-nsmec.md
       - 5G Enabled E-Vehicle: products/5g-ev.md
 
-
   - Workshops:
       - Workshops-Overview: workshops/index.md
       - Deep Learning for Wireless: workshops/dl-wireless.md
@@ -82,13 +81,11 @@ nav:
         - 5G NR Hands-On: press/5g-nr-hands-on.md
       - Standards & Specifications:
         - YesDR Standard: press/yesdr.md
-
-
-
-      
+     
 
   - Internships:
       - Internships-Overview: internships/index.md
+      - UG & PG Projects at Collaborating Institutes: internships/ugpgprojects.md
       - Past & Current Internships: internships/past-current.md
       - Visitng Scholars: internships/visiting-scholars.md
       
