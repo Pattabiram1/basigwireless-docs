@@ -4,7 +4,7 @@
   **ISBN:** 978-81-982943-6-4.
 
 - **Aravind Kilaru; Prabhu Chandhar,**  *5G NR Hands‑On.*  
-  Chandhar Research Press, 2025.
+  Chandhar Research Press, 2025.   
   **ISBN:** 978‑81‑982943‑5‑7.
 
 - **Aravind Kilaru; Prabhu Chandhar,**  *LTE Hands‑On.*  
