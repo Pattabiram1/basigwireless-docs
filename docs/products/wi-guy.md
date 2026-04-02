@@ -32,7 +32,7 @@ Click on images to view larger.s
 !!! info "To buy"
     For purchase, pricing, and demos, contact:
 
-    Email: **info@chandhar-labs.com**  
+    Email: **info@BasigWirelessLaboratoriesIndia**  
 
     Kindly mention the **product name** in your message.
 

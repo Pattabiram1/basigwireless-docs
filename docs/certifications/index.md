@@ -1,7 +1,7 @@
 # Certification Programmes
 
 Industry‑oriented certification programmes offered by
-**Chandhar Research Labs Pvt. Ltd.**.
+**Basig Wireless Laboratories India Pvt. Ltd.**.
 
 ## Programmes Offered
 - 5G End‑to‑End: Hands‑On Certification

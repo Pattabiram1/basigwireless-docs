@@ -1,7 +1,7 @@
-# Chandhar Research Press
+# Basig Wireless Press
 
-Chandhar Research Press is the publishing imprint of
-Chandhar Research Labs Pvt. Ltd., dedicated to disseminating
+Basig Wireless Press is the publishing imprint of
+Basig Wireless Labouatories Pvt. Ltd., dedicated to disseminating
 high‑quality research outputs, academic books, and technical standards
 in wireless communications and related domains.
 

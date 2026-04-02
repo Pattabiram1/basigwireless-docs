@@ -1,7 +1,7 @@
 # YESDR Standard
 
 YESDR (Your Extensible Software Defined Radio) is a modular digital radio standard framework developed by Chandhar Research Labs Pvt. Ltd. and published by
-Chandhar Research Press.
+Basig Wireless Press.
 
 ## Scope
 - Extensible SDR systems

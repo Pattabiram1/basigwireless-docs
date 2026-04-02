@@ -1,6 +1,6 @@
 # Workshops
 
-Chandhar Research Labs conducts hands‑on, research‑oriented workshops for students, faculty, researchers, and industry professionals in the
+Basig Wireless Laboratories conducts hands‑on, research‑oriented workshops for students, faculty, researchers, and industry professionals in the
 domains of 5G, AI‑driven wireless systems, and advanced communication technologies.
 
 ---
@@ -16,7 +16,7 @@ RAN, Core, network slicing, MEC, and real testbeds.
 !!! info "Workshops & Training – Contact"
     For organizing workshops, FDPs, hands‑on sessions, and customized training programmes, please get in touch:
 
-    Email: info@chandhar-labs.com
+    Email: info@BasigWirelessLaboratories.com
 
     Kindly include the workshop topic, expected duration, and audience (UG/PG/Faculty/Industry).
 

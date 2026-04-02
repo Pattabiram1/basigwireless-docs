@@ -2,7 +2,7 @@
 # Visiting Scholars
 
 Visiting scholars who have collaborated with
-**Chandhar Research Labs Pvt. Ltd.** on focused research problems.
+**Basig Wireless Laboratories India Pvt. Ltd.** on focused research problems.
 
 ---
 

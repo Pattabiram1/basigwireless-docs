@@ -1,4 +1,4 @@
-# Chandhar Research Labs Pvt. Ltd.
+# Basig Wireless Laboratories Pvt. Ltd.
 
 Advancing 5G/6G Wireless Communications, and AI‑Driven Radio Technologies through  Academic and Industry Collaboration, Research, Product Development, and Training.
 
@@ -6,7 +6,7 @@ Advancing 5G/6G Wireless Communications, and AI‑Driven Radio Technologies thro
 
 ## Who We Are
 
-Chandhar Research Labs Pvt. Ltd., established in 2018 in Mayiladuthurai, Tamil Nadu, India, focuses on developing advanced solutions for challenging problems in the field of telecommunications through research, consultancy, and product development.
+Basig Wireless Laboratories Pvt. Ltd., established in 2018 in Mayiladuthurai, Tamil Nadu, India, focuses on developing advanced solutions for challenging problems in the field of telecommunications through research, consultancy, and product development.
 
 The company develops customized software and communication equipment for 5G cellular and drone communication systems and actively collaborates with R&D laboratories and academic institutions in next‑generation wireless technologies.
 
@@ -64,10 +64,10 @@ Our work is published in IEEE journals and international conferences.
 
 ---
 
-## Chandhar Research Press
-Chandhar Research Press is the publishing imprint of Chandhar Research Labs Pvt. Ltd.  
+## Basig Wireless Press
+Basig Wireless Press is the publishing imprint of Basig Wireless Laboratories Pvt. Ltd.  
  
-[More about Chandhar Research Press](press/index.md)
+[More about Basig Wireless Press](press/index.md)
 
 ---
 
@@ -101,9 +101,9 @@ We offer internships and research collaboration opportunities for:
 
 - [JEWS - Journal of Experimental Wireless Systems](https://jewsjournal.org)
 - [YESDR Standard](https://yesdr-standard.org)
-- [GitHub – Chandhar Research Labs](https://github.com/chandharlabs)
-- [Kaggle – Chandhar Research Labs](https://www.kaggle.com/chandharlabs)
-- [Youtube - Chandhar Research Labs](https://www.youtube.com/ChandharResearchLabs/videos)
+- [GitHub – Basig Wireless Laboratories](https://github.com/chandharlabs)
+- [Kaggle – Basig Wireless Laboratories](https://www.kaggle.com/chandharlabs)
+- [Youtube - Basig Wireless Laboratories](https://www.youtube.com/ChandharResearchLabs/videos)
 - [BaSig Wireless Laboratories](https://www.basigwireless.com/)
 
 ---
@@ -113,5 +113,5 @@ We offer internships and research collaboration opportunities for:
     Interested in collaboration, training, research, or product deployment?  
     We’d be happy to hear from you.
 
-    Email: **info@chandhar-labs.com**    
+    Email: **info@BasigWirelessLaboratories.com**    
 

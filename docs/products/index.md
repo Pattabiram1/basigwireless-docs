@@ -18,7 +18,7 @@ Chandhar Research Labs Pvt. Ltd. develops research‑grade platforms and testbed
 !!! info "To buy"
     For purchase, pricing, and demos, contact:
 
-    Email: info@chandhar-labs.com
+    Email: info@BasigWirelessLaboratoriesIndia.com
 
     Kindly mention the product name in your message.
 

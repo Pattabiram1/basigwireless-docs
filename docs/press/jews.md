@@ -1,7 +1,7 @@
 # JEWS – Journal of Experimental Wireless Systems
 
 **JEWS** is a peer‑reviewed journal published by
-**Chandhar Research Press**, focusing on cutting‑edge research in
+**Basig Wireless Press**, focusing on cutting‑edge research in
 wireless communication systems.
 
 ## Scope
