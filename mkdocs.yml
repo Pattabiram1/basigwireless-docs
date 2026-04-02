@@ -1,7 +1,7 @@
-site_name: Chandhar Research Labs
+site_name: Basig Wireless Laboratories
 site_description: Research, Innovation, and Product Development in Wireless and SDR Systems
-site_author: Chandhar Research Labs Pvt Ltd
-site_url: https://docs.chandhar-labs.com
+site_author: Basig Wireless Laboratories Pvt Ltd
+site_url: https://docs.basigwireless-laboratories.com
 
 
 theme:
@@ -72,8 +72,8 @@ nav:
       - Journal Publications: publications/journal-publications.md
       - Conference Publications: publications/conference-publications.md
 
-  - Chandhar Research Press:
-      - Chandhar Research Press-Overview: press/index.md
+  - Basig Wireless Laboratories Press:
+      - Basig Wireless Laboratories Press-Overview: press/index.md
       - Journals:
         - JEWS: press/jews.md
       - Books:
@@ -120,5 +120,5 @@ markdown_extensions:
 plugins: []
 
 copyright: >
-  © 2018–2026 Chandhar Research Labs Pvt. Ltd. All rights reserved.
+  © 2018–2026 Basig Wireless Laboratories Pvt. Ltd. All rights reserved.
 
