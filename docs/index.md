@@ -1,4 +1,4 @@
-# Basig Wireless Laboratories Pvt. Ltd.
+# Basig Wireless Laboratories India Pvt. Ltd.
 
 Advancing 5G/6G Wireless Communications, and AI‑Driven Radio Technologies through  Academic and Industry Collaboration, Research, Product Development, and Training.
 
