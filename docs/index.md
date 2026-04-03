@@ -1,4 +1,4 @@
-# BaSig Wireless Laboratories India Pvt. Ltd.
+# BaSig Wireless
 
 Advancing 5G/6G Wireless Communications, and AI‑Driven Radio Technologies through  Academic and Industry Collaboration, Research, Product Development, and Training.
 
@@ -6,7 +6,7 @@ Advancing 5G/6G Wireless Communications, and AI‑Driven Radio Technologies thro
 
 ## Who We Are
 
-BaSig Wireless Laboratories India Pvt. Ltd., established in Mayiladuthurai, Tamil Nadu, India, focuses on developing advanced solutions for challenging problems in the field of telecommunications through research, consultancy, and product development.
+BaSig Wireless, established in Mayiladuthurai, Tamil Nadu, India, focuses on developing advanced solutions for challenging problems in the field of telecommunications through research, consultancy, and product development.
 
 The company develops customized software and communication equipment for 5G cellular and drone communication systems and actively collaborates with R&D laboratories and academic institutions in next‑generation wireless technologies.
 
