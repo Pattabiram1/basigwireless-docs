@@ -1,6 +1,6 @@
 # Workshops
 
-BaSig Wireless Laboratories India conducts hands‑on, research‑oriented workshops for students, faculty, researchers, and industry professionals in the
+BaSig Wireless conducts hands‑on, research‑oriented workshops for students, faculty, researchers, and industry professionals in the
 domains of 5G, AI‑driven wireless systems, and advanced communication technologies.
 
 ---
