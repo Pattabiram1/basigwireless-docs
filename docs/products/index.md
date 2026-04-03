@@ -18,7 +18,7 @@ BaSig develops research‑grade platforms and testbeds for wireless communicatio
 !!! info "To buy"
     For purchase, pricing, and demos, contact:
 
-    Email: info@basigwireless.com
+    Email: **info@basigwireless.com**
 
     Kindly mention the product name in your message.
 
