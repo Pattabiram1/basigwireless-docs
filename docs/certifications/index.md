@@ -1,7 +1,7 @@
 # Certification Programmes
 
 Industry‑oriented certification programmes offered by
-**Basig Wireless Laboratories India Pvt. Ltd.**.
+**Basig Wireless**.
 
 ## Programmes Offered
 - 5G End‑to‑End: Hands‑On Certification
