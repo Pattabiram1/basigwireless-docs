@@ -25,3 +25,11 @@ Efficient spectrum utilization using cognitive radio, dynamic access, and intell
 
 ### IoT Security
 Security frameworks and intrusion detection for large-scale IoT and machine-type communication networks.
+
+---
+
+!!! info "Collaboration"
+    Interested in research collaboration or projects?
+
+    Email: info@basigwireless.com
+
