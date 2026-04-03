@@ -1,6 +1,6 @@
 # Books
 
-Books authored and published by **Basig Wireless Laboratories India Pvt. Ltd.**
+Books authored and published by **Basig Wireless**
 focus on **hands‑on learning, real testbeds, and practical wireless systems**.
 
 ---
