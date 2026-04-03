@@ -4,7 +4,7 @@
 
 Basig Wireless Laboratories India Pvt. Ltd.
 
-68/5, Keelaparasalur, Melakattalai, Arupathy 
+68/5, Keelaparasalur, Melakattalai, Arupathy  
 Tharangambadi Taluk, Mayiladuthurai District,  
 Tamil Nadu – 609309  
 
