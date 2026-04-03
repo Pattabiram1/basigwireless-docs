@@ -1,6 +1,6 @@
 # Products
 
-BaSig Wireless develops research‑grade platforms and testbeds for wireless communications, 5G/6G systems, IoT, and AI‑driven networks.
+BaSig develops research‑grade platforms and testbeds for wireless communications, 5G/6G systems, IoT, and AI‑driven networks.
 
 ---
 
