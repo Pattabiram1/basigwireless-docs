@@ -7,4 +7,4 @@ BaSig Wireless Laboratories India Pvt. Ltd.
 Tharangambadi Taluk, Mayiladuthurai District,  
 Tamil Nadu – 609309  
 
-Email: info@chandhar-labs.com
+Email: info@basigwireless.com
