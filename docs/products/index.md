@@ -6,7 +6,7 @@ BaSig Wireless Laboratories India Pvt. Ltd. develops research‑grade platforms 
 
 ## Product Portfolio
 
-- [**Five‑9 Radio<sup>®</sup> (5G Testbed)**](5-nines-radio.md): A high‑reliability end‑to‑end 5G testbed for URLLC, eMBB, and mMTC research.
+- [**Five9 Radio<sup>®</sup> (5G Testbed)**](5-nines-radio.md): A high‑reliability end‑to‑end 5G testbed for URLLC, eMBB, and mMTC research.
 - [**Deep Radio<sup>®</sup>**](deep-radio.md): A deep learning–enabled wireless testbed for AI‑driven PHY and MAC research.
 - [**Wi‑Guy<sup>®</sup>**](wi-guy.md): An SDR‑based platform for learning and experimenting with wireless fundamentals.
 - [**Loiter<sup>®</sup> (5G Drone)**](loiter.md): A 5G‑enabled drone platform for UAV communications and edge‑assisted autonomy.
