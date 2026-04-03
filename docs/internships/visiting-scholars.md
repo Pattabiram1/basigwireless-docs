@@ -1,11 +1,6 @@
 
 # Visiting Scholars
 
-Visiting scholars who have collaborated with
-**Basig Wireless Laboratories India Pvt. Ltd.** on focused research problems.
-
----
-
 **5G LMLC**
 - Jothi Mani, SRM University, Chennai | *Mar–June 2021*  
 
