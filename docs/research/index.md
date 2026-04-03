@@ -31,5 +31,5 @@ Security frameworks and intrusion detection for large-scale IoT and machine-type
 !!! info "Collaboration"
     Interested in research collaboration or projects?
 
-    Email: info@basigwireless.com
+    Email: **info@basigwireless.com**
 
