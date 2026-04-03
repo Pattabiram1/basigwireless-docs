@@ -80,7 +80,7 @@ An independent imprint associated with BaSig for research, books, and standards.
 
 We conduct hands‑on workshops, faculty development programs, and industry training.
 
-- 5G Hands‑On Workshops  
+- 5G Hands‑On Workshops
 - Deep Learning for Wireless  
 - Academic FDPs  
 - Customized Industry Training  
