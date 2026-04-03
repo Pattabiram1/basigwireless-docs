@@ -1,6 +1,6 @@
 # Research
 
-Research at Basig Wireless focuses on
+Research at BaSig Wireless focuses on
 next‑generation wireless communication systems, intelligent networks,
 and secure, spectrum‑efficient technologies.
 
