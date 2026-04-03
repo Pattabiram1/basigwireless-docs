@@ -1,14 +1,19 @@
-# BaSig Wireless
+# BaSig
 
-Advancing 5G/6G Wireless Communications, and AI‑Driven Radio Technologies through  Academic and Industry Collaboration, Research, Product Development, and Training.
+### AI-Driven Wireless Systems  
+5G • 6G • SDR • Edge Intelligence
+
 
 ---
 
-## Who We Are
+## About BaSig
 
-BaSig Wireless, established in Mayiladuthurai, Tamil Nadu, India, focuses on developing advanced solutions for challenging problems in the field of telecommunications through research, consultancy, and product development.
+BaSig develops next-generation wireless communication systems combining:
 
-The company develops customized software and communication equipment for 5G cellular and drone communication systems and actively collaborates with R&D laboratories and academic institutions in next‑generation wireless technologies.
+- 5G & 6G Technologies  
+- Software Defined Radio (SDR)  
+- AI for Wireless Communication  
+- Research & Product Development
 
 [Learn more about us](about/company.md)
 
@@ -16,12 +21,12 @@ The company develops customized software and communication equipment for 5G cell
 
 ## Core Focus Areas
 
-- 5G & Beyond Wireless Communication Systems  
-- Software Defined Radio (SDR) Platforms  
-- Deep Learning and AI for Wireless  
-- Drone and Vehicular Communications  
-- IoT and Network Security  
-- Spectrum Monitoring and Management  
+- 5G & Beyond Wireless Systems  
+- Software Defined Radio  
+- Deep Learning for Wireless  
+- Drone & Vehicular Communications  
+- IoT & Network Security  
+- Spectrum Monitoring  
 
 ---
 
@@ -30,7 +35,7 @@ The company develops customized software and communication equipment for 5G cell
 Our platforms are designed for academic institutions, R&D labs, and industry.
 
 - **Five9 Radio** – End‑to‑End 4G/5G Testbed  
-- **Deep Radio** – AI‑Driven Wireless Testbed  
+- **Deep Radio** – AI‑Driven Wireless System  
 - **Wi‑Guy** – SDR Platform for Wireless Learning  
 - **5NR‑NSMEC** – 5G Network Slicing & MEC Emulator  
 - **IoT Security Testbed**  
@@ -45,9 +50,8 @@ Our platforms are designed for academic institutions, R&D labs, and industry.
 Our research spans fundamental and applied areas in next‑generation wireless communications.
 
 - 5G Use Cases  
-- 5G Security  
-- 5G Enabled Drones  
-- Deep Learning for Wireless  
+- 5G Security    
+- AI for Wireless  
 - Spectrum Management  
 - IoT Security  
 
