@@ -14,7 +14,7 @@ security, privacy, and resilience of IoT networks.
 !!! info "To buy"
     For purchase, pricing, and demos, contact:
 
-    Email: **info@BasigWirelessLaboratoriesIndia.com**  
+    Email: **info@basigwireless.com**  
 
     Kindly mention the **product name** in your message.
 
