@@ -12,7 +12,7 @@ Tamil Nadu – 609309.
 **BaSig Wireless Laboratories India Pvt. Ltd.**  
 1/302, Main Road, Arupathy  
 Tharangambadi Taluk, Mayiladuthurai District  
-Tamil Nadu
+Tamil Nadu - 609309.
 
 ### Email: 
        info@basigwireless.com 
