@@ -14,7 +14,7 @@ Tamil Nadu – 609309.
 Tharangambadi Taluk, Mayiladuthurai District  
 Tamil Nadu - 609309.
 
-### Email: 
-       info@basigwireless.com 
-       sales@basigwireless.com 
-       support@basigwireless.com
+## Email Contacts
+- **General Enquiries:** [info@basigwireless.com](mailto:info@basigwireless.com)  
+- **Sales:** [sales@basigwireless.com](mailto:sales@basigwireless.com)  
+- **Technical Support:** [support@basigwireless.com](mailto:support@basigwireless.com)
