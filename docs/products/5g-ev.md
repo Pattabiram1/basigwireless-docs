@@ -18,15 +18,15 @@ Designed for academic institutions, R&D labs, and industry innovators, this plat
   - Vehicle-to-Network (V2N)  
   - Vehicle-to-Pedestrian (V2P)
 
-- **Edge Computing (MEC) Support**
+**Edge Computing (MEC) Support**
   - Real-time data processing at the edge  
   - AI/ML inference for autonomous decision-making  
 
-- **Onboard Sensor Integration**
+**Onboard Sensor Integration**
   - GPS, IMU, cameras, LiDAR (optional)  
   - Real-time telemetry and analytics  
 
-- **Remote Monitoring & Control**
+**Remote Monitoring & Control**
   - Cloud dashboard integration  
   - Live vehicle diagnostics and control  
 
