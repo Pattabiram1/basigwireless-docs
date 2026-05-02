@@ -34,7 +34,7 @@ BaSig develops next-generation wireless communication systems combining:
 
 Our platforms are designed for academic institutions, R&D labs, and industry.
 
-- **Five9 Radio** – End‑to‑End 4G/5G Testbed  
+- **5Nines Radio** – End‑to‑End 4G/5G Testbed  
 - **Deep Radio** – AI‑Driven Wireless System  
 - **Wi‑Guy** – SDR Platform for Wireless Learning  
 - **5NR‑NSMEC** – 5G Network Slicing & MEC Emulator  
