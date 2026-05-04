@@ -10,13 +10,13 @@
 | 6 | Sreekar | KL University, Vijayawada | Spectrum Sensing | Ongoing |
 | 7 | P. Pattabiram | KL University, Vijayawada | YESDR | Ongoing |
 | 8 | Shiva Kumar | KL University, Vijayawada | YESDR | Ongoing |
-| 9 | Rikshit, Sruthi | Mahindra University | DoA Analysis | Ongoing |
-| 10 | K. Chitranjali, N. Niklesh, S. Trivarshith | Geethanjali College of Engineering and Technology | Human Activity Monitoring Using 5G MEC Server | Ongoing |
-| 11 | M. Tripurna Dyuthi, A. Bunny, M. Narsimha | Geethanjali College of Engineering and Technology | IoT-Based Device Controlling Using 5G MEC Server | Ongoing |
-| 12 | J. Meghana, P. Uday, P. Mahesh | Geethanjali College of Engineering and Technology | IoT-Based Device Monitoring Using 5G MEC Server | Ongoing |
-| 13 | Sahasra | Geethanjali College of Engineering and Technology | QoS Analysis of 5G Networks with Edge Applications | Ongoing |
-| 14 | Abhinay | Geethanjali College of Engineering and Technology | Analysis of 5G Security Attacks | Ongoing |
-| 15 | N. Sathwik, K. Ganesh, L. Vamshi | Geethanjali College of Engineering and Technology | Latency Analysis of Edge Applications Over 5G Networks | Ongoing |
+| 9 | Rikshit, Sruthi | Mahindra University, Hyderabad | DoA Analysis | Ongoing |
+| 10 | K. Chitranjali, N. Niklesh, S. Trivarshith | Geethanjali College of Engineering and Technology, Hyderabad | Human Activity Monitoring Using 5G MEC Server | Ongoing |
+| 11 | M. Tripurna Dyuthi, A. Bunny, M. Narsimha | Geethanjali College of Engineering and Technology , Hyderabad| IoT-Based Device Controlling Using 5G MEC Server | Ongoing |
+| 12 | J. Meghana, P. Uday, P. Mahesh | Geethanjali College of Engineering and Technology, Hyderabad | IoT-Based Device Monitoring Using 5G MEC Server | Ongoing |
+| 13 | Sahasra | Geethanjali College of Engineering and Technology, Hyderabad | QoS Analysis of 5G Networks with Edge Applications | Ongoing |
+| 14 | Abhinay | Geethanjali College of Engineering and Technology, Hyderabad | Analysis of 5G Security Attacks | Ongoing |
+| 15 | N. Sathwik, K. Ganesh, L. Vamshi | Geethanjali College of Engineering and Technology, Hyderabad | Latency Analysis of Edge Applications Over 5G Networks | Ongoing |
 
 
 ---
